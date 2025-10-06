@@ -1,0 +1,16 @@
+# Node dependencies
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Mac/VSCode files
+.DS_Store
+.vscode/
